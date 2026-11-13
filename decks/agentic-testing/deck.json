@@ -1,0 +1,93 @@
+{
+ "title": "Agentic Testing",
+ "slides": [
+  {
+   "name": "Code is generated",
+   "img": "01.png"
+  },
+  {
+   "name": "What is testing",
+   "img": "02.png"
+  },
+  {
+   "name": "Types of testing",
+   "img": "03.png"
+  },
+  {
+   "name": "Unit testing",
+   "img": "04.png"
+  },
+  {
+   "name": "Integration testing",
+   "img": "05.png"
+  },
+  {
+   "name": "GUI testing",
+   "img": "06.png"
+  },
+  {
+   "name": "Agentic testing",
+   "img": "07.png"
+  },
+  {
+   "name": "Spec to tests: idea",
+   "img": "08.png"
+  },
+  {
+   "name": "Spec to tests: example",
+   "img": "09.png"
+  },
+  {
+   "name": "Spec-to-test tools",
+   "img": "10.png"
+  },
+  {
+   "name": "Autonomous testing loop",
+   "img": "11.png"
+  },
+  {
+   "name": "Meta TestGen-LLM",
+   "img": "12.png"
+  },
+  {
+   "name": "TestGen-LLM filters",
+   "img": "13.png"
+  },
+  {
+   "name": "Challenges: conventional testing",
+   "img": "14.png"
+  },
+  {
+   "name": "Property-based testing",
+   "img": "15.png"
+  },
+  {
+   "name": "PBT tools",
+   "img": "16.png"
+  },
+  {
+   "name": "How PBT works",
+   "img": "17.png"
+  },
+  {
+   "name": "GUI testing challenges",
+   "img": "18.png"
+  },
+  {
+   "name": "EMNLP code-driven testing",
+   "img": "19.png"
+  },
+  {
+   "name": "EMNLP code-driven testing 2",
+   "img": "20.png"
+  },
+  {
+   "name": "Open challenges",
+   "img": "21.png"
+  },
+  {
+   "name": "Hands-on",
+   "img": "22.png"
+  }
+ ]
+}
