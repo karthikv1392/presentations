@@ -1,0 +1,267 @@
+{
+ "title": "Transformers and Large Language Models",
+ "slides": [
+  {
+   "name": "Title",
+   "img": "01.png",
+   "details": []
+  },
+  {
+   "name": "Roadmap",
+   "img": "02.png",
+   "details": []
+  },
+  {
+   "name": "RNN recap",
+   "img": "03.png",
+   "details": []
+  },
+  {
+   "name": "RNN problems",
+   "img": "04.png",
+   "details": []
+  },
+  {
+   "name": "Attention idea",
+   "img": "05.png",
+   "details": []
+  },
+  {
+   "name": "Transformer overview",
+   "img": "06.png",
+   "details": []
+  },
+  {
+   "name": "Tokens and embeddings",
+   "img": "07.png",
+   "details": []
+  },
+  {
+   "name": "Positional encoding",
+   "img": "08.png",
+   "details": []
+  },
+  {
+   "name": "Query key value",
+   "img": "09.png",
+   "details": []
+  },
+  {
+   "name": "Scaled dot-product attention",
+   "img": "10.png",
+   "details": []
+  },
+  {
+   "name": "Multi-head attention",
+   "img": "11.png",
+   "details": []
+  },
+  {
+   "name": "Residuals and feed-forward",
+   "img": "12.png",
+   "details": []
+  },
+  {
+   "name": "Encoder block",
+   "img": "13.png",
+   "details": [
+    {
+     "name": "Inside self-attention",
+     "img": "13a.png",
+     "focus": {
+      "x": 0.2453125,
+      "y": 0.375,
+      "w": 0.14375,
+      "h": 0.2638888888888889
+     }
+    }
+   ]
+  },
+  {
+   "name": "Example: setup",
+   "img": "14.png",
+   "details": []
+  },
+  {
+   "name": "Example: scores",
+   "img": "15.png",
+   "details": []
+  },
+  {
+   "name": "Example: output",
+   "img": "16.png",
+   "details": []
+  },
+  {
+   "name": "Encoder",
+   "img": "17.png",
+   "details": []
+  },
+  {
+   "name": "Encoder in action",
+   "img": "18.png",
+   "details": [],
+   "builds": [
+    "18-0.png",
+    "18-1.png",
+    "18-2.png",
+    "18-3.png",
+    "18-4.png"
+   ]
+  },
+  {
+   "name": "Decoder",
+   "img": "19.png",
+   "details": []
+  },
+  {
+   "name": "Decoder in action",
+   "img": "20.png",
+   "details": [],
+   "builds": [
+    "20-0.png",
+    "20-1.png",
+    "20-2.png",
+    "20-3.png",
+    "20-4.png",
+    "20-5.png"
+   ]
+  },
+  {
+   "name": "Causal mask",
+   "img": "21.png",
+   "details": [],
+   "builds": [
+    "21-0.png",
+    "21-1.png",
+    "21-2.png",
+    "21-3.png"
+   ]
+  },
+  {
+   "name": "Encoder-only models",
+   "img": "22.png",
+   "details": []
+  },
+  {
+   "name": "Decoder-only models",
+   "img": "23.png",
+   "details": []
+  },
+  {
+   "name": "Encoder-decoder models",
+   "img": "24.png",
+   "details": []
+  },
+  {
+   "name": "Encoder-decoder in action",
+   "img": "25.png",
+   "details": [],
+   "builds": [
+    "25-0.png",
+    "25-1.png",
+    "25-2.png",
+    "25-3.png"
+   ]
+  },
+  {
+   "name": "Three families",
+   "img": "26.png",
+   "details": []
+  },
+  {
+   "name": "Why transformers parallelize",
+   "img": "27.png",
+   "details": []
+  },
+  {
+   "name": "Training vs generation",
+   "img": "28.png",
+   "details": []
+  },
+  {
+   "name": "Why decoder only",
+   "img": "29.png",
+   "details": []
+  },
+  {
+   "name": "From decoder to LLM",
+   "img": "30.png",
+   "details": []
+  },
+  {
+   "name": "Foundation models",
+   "img": "31.png",
+   "details": [],
+   "builds": [
+    "31-0.png",
+    "31-1.png",
+    "31-2.png"
+   ]
+  },
+  {
+   "name": "KV cache",
+   "img": "32.png",
+   "details": [],
+   "builds": [
+    "32-0.png",
+    "32-1.png",
+    "32-2.png",
+    "32-3.png",
+    "32-4.png"
+   ]
+  },
+  {
+   "name": "Context window limits",
+   "img": "33.png",
+   "details": []
+  },
+  {
+   "name": "Context windows over time",
+   "img": "34.png",
+   "details": [],
+   "builds": [
+    "34-0.png",
+    "34-1.png",
+    "34-2.png",
+    "34-3.png",
+    "34-4.png",
+    "34-5.png"
+   ]
+  },
+  {
+   "name": "Fine-tuning",
+   "img": "35.png",
+   "details": [],
+   "builds": [
+    "35-0.png",
+    "35-1.png"
+   ]
+  },
+  {
+   "name": "LoRA",
+   "img": "36.png",
+   "details": [],
+   "builds": [
+    "36-0.png",
+    "36-1.png",
+    "36-2.png"
+   ]
+  },
+  {
+   "name": "Prompt RAG or fine-tune",
+   "img": "37.png",
+   "details": []
+  },
+  {
+   "name": "Takeaways",
+   "img": "38.png",
+   "details": []
+  },
+  {
+   "name": "References",
+   "img": "39.png",
+   "details": []
+  }
+ ]
+}

@@ -3,91 +3,159 @@
  "slides": [
   {
    "name": "Code is generated",
-   "img": "01.png"
+   "img": "01.png",
+   "details": []
   },
   {
    "name": "What is testing",
-   "img": "02.png"
+   "img": "02.png",
+   "details": []
   },
   {
    "name": "Types of testing",
-   "img": "03.png"
+   "img": "03.png",
+   "details": []
   },
   {
    "name": "Unit testing",
-   "img": "04.png"
+   "img": "04.png",
+   "details": []
   },
   {
    "name": "Integration testing",
-   "img": "05.png"
+   "img": "05.png",
+   "details": []
   },
   {
    "name": "GUI testing",
-   "img": "06.png"
+   "img": "06.png",
+   "details": []
   },
   {
    "name": "Agentic testing",
-   "img": "07.png"
+   "img": "07.png",
+   "details": []
   },
   {
    "name": "Spec to tests: idea",
-   "img": "08.png"
+   "img": "08.png",
+   "details": []
   },
   {
    "name": "Spec to tests: example",
-   "img": "09.png"
+   "img": "09.png",
+   "details": []
+  },
+  {
+   "name": "Behaviour-driven testing",
+   "img": "10.png",
+   "details": []
   },
   {
    "name": "Spec-to-test tools",
-   "img": "10.png"
+   "img": "11.png",
+   "details": []
   },
   {
    "name": "Autonomous testing loop",
-   "img": "11.png"
+   "img": "12.png",
+   "details": [
+    {
+     "name": "Generate",
+     "img": "12a.png",
+     "focus": {
+      "x": 0.0625,
+      "y": 0.375,
+      "w": 0.14375,
+      "h": 0.2638888888888889
+     }
+    },
+    {
+     "name": "Decide",
+     "img": "12b.png",
+     "focus": {
+      "x": 0.6109375,
+      "y": 0.375,
+      "w": 0.14375,
+      "h": 0.2638888888888889
+     }
+    }
+   ]
   },
   {
    "name": "Meta TestGen-LLM",
-   "img": "12.png"
+   "img": "13.png",
+   "details": []
   },
   {
    "name": "TestGen-LLM filters",
-   "img": "13.png"
+   "img": "14.png",
+   "details": []
   },
   {
    "name": "Challenges: conventional testing",
-   "img": "14.png"
+   "img": "15.png",
+   "details": []
   },
   {
    "name": "Property-based testing",
-   "img": "15.png"
+   "img": "16.png",
+   "details": []
   },
   {
    "name": "PBT tools",
-   "img": "16.png"
+   "img": "17.png",
+   "details": []
   },
   {
    "name": "How PBT works",
-   "img": "17.png"
+   "img": "18.png",
+   "details": []
+  },
+  {
+   "name": "Fuzzing",
+   "img": "19.png",
+   "details": []
+  },
+  {
+   "name": "Fuzzing with agents",
+   "img": "20.png",
+   "details": []
   },
   {
    "name": "GUI testing challenges",
-   "img": "18.png"
+   "img": "21.png",
+   "details": []
   },
   {
    "name": "EMNLP code-driven testing",
-   "img": "19.png"
+   "img": "22.png",
+   "details": []
   },
   {
    "name": "EMNLP code-driven testing 2",
-   "img": "20.png"
+   "img": "23.png",
+   "details": []
+  },
+  {
+   "name": "End-to-end autonomous loop",
+   "img": "24.png",
+   "details": []
+  },
+  {
+   "name": "Loop: worked example",
+   "img": "25.png",
+   "details": []
   },
   {
    "name": "Open challenges",
-   "img": "21.png"
+   "img": "26.png",
+   "details": []
   },
   {
    "name": "Hands-on",
-   "img": "22.png"
+   "img": "27.png",
+   "details": []
   }
  ]
 }

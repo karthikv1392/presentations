@@ -2,7 +2,13 @@
  {
   "id": "agentic-testing",
   "title": "Agentic Testing",
-  "count": 22,
+  "count": 27,
   "cover": "decks/agentic-testing/01.png"
+ },
+ {
+  "id": "transformers-llms",
+  "title": "Transformers and Large Language Models",
+  "count": 39,
+  "cover": "decks/transformers-llms/01.png"
  }
 ]
