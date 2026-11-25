@@ -6,6 +6,12 @@
   "cover": "decks/agentic-testing/01.png"
  },
  {
+  "id": "graphrag",
+  "title": "GraphRAG",
+  "count": 12,
+  "cover": "decks/graphrag/01.png"
+ },
+ {
   "id": "transformers-llms",
   "title": "Transformers and Large Language Models",
   "count": 39,

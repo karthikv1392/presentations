@@ -1,0 +1,100 @@
+{
+ "title": "GraphRAG",
+ "slides": [
+  {
+   "name": "Title",
+   "img": "01.png",
+   "details": []
+  },
+  {
+   "name": "RAG recap",
+   "img": "02.png",
+   "details": [],
+   "builds": [
+    "02-0.png",
+    "02-1.png",
+    "02-2.png"
+   ]
+  },
+  {
+   "name": "Where vector RAG struggles",
+   "img": "03.png",
+   "details": []
+  },
+  {
+   "name": "Use case",
+   "img": "04.png",
+   "details": [],
+   "builds": [
+    "04-0.png",
+    "04-1.png"
+   ]
+  },
+  {
+   "name": "Text to graph",
+   "img": "05.png",
+   "details": []
+  },
+  {
+   "name": "Building the graph",
+   "img": "06.png",
+   "details": [],
+   "builds": [
+    "06-0.png",
+    "06-1.png",
+    "06-2.png",
+    "06-3.png",
+    "06-4.png"
+   ]
+  },
+  {
+   "name": "Traversal",
+   "img": "07.png",
+   "details": [],
+   "builds": [
+    "07-0.png",
+    "07-1.png",
+    "07-2.png",
+    "07-3.png",
+    "07-4.png",
+    "07-5.png"
+   ]
+  },
+  {
+   "name": "GraphRAG pipeline",
+   "img": "08.png",
+   "details": [],
+   "builds": [
+    "08-0.png",
+    "08-1.png",
+    "08-2.png"
+   ]
+  },
+  {
+   "name": "Where it works",
+   "img": "09.png",
+   "details": []
+  },
+  {
+   "name": "Agentic RAG",
+   "img": "10.png",
+   "details": [],
+   "builds": [
+    "10-0.png",
+    "10-1.png",
+    "10-2.png",
+    "10-3.png"
+   ]
+  },
+  {
+   "name": "Choosing",
+   "img": "11.png",
+   "details": []
+  },
+  {
+   "name": "Takeaways",
+   "img": "12.png",
+   "details": []
+  }
+ ]
+}
