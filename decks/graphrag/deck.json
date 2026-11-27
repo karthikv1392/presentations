@@ -7,7 +7,7 @@
    "details": []
   },
   {
-   "name": "RAG recap",
+   "name": "Embeddings",
    "img": "02.png",
    "details": [],
    "builds": [
@@ -17,9 +17,15 @@
    ]
   },
   {
-   "name": "Where vector RAG struggles",
+   "name": "RAG recap",
    "img": "03.png",
-   "details": []
+   "details": [],
+   "builds": [
+    "03-0.png",
+    "03-1.png",
+    "03-2.png",
+    "03-3.png"
+   ]
   },
   {
    "name": "Use case",
@@ -71,9 +77,15 @@
    ]
   },
   {
-   "name": "Where it works",
+   "name": "Evidence",
    "img": "09.png",
-   "details": []
+   "details": [],
+   "builds": [
+    "09-0.png",
+    "09-1.png",
+    "09-2.png",
+    "09-3.png"
+   ]
   },
   {
    "name": "Agentic RAG",
